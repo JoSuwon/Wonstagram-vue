@@ -1,6 +1,10 @@
 <template>
-  <div style="height: 3000px">
-    newsfeed
+  <div class="newsfeed">
+    newsfeed<br>
+    newsfeed<br>
+    newsfeed<br>
+    newsfeed<br>
+    newsfeed<br>
   </div>
 </template>
 
@@ -11,5 +15,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 </style>
